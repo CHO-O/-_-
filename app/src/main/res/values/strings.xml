@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ICE Shopping</string>
+    <string name="button_list">상품 보러가기</string>
+    <string name='shop_email'>Email. 327cjm@dongguk.edu</string>
+    <string name='shop_tel'>Tel. 01023677532</string>
+    <string name='shop_loc'>고객센터 위치</string>
+    <string name="shop_name">ICE.com</string>
+    <string name='list_name'>상품 목록</string>
+</resources>
